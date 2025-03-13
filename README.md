@@ -1,5 +1,9 @@
 # Ola, sou @norwalneto Desenvolvedor Fullstack👋
-- 🌱 Estou Desenvolvendo Habilidades Em: Java, Springboot, Typescript, Angular, HTML,CSS,JavaScript...
+🌱 Estou Desenvolvendo Habilidades Em: Java, Springboot, Typescript, Angular, HTML,CSS,JavaScript...
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/norwal-gomes-13262615b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:norwalgomess@gmail.com) 
