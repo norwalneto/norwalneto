@@ -21,9 +21,6 @@
   <img height="180em" align="center" src="https://nirzak-streak-stats.vercel.app/?user=norwalneto&theme=dark&hide_border=true&layout=compact&langs_count=16&locale=pt-br" />
 </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=norwalneto&theme=radical&no-frame=false&no-bg=false&margin-w=4&locale=pt-br)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=norwalneto&limit=5&theme=dark&combine_all_yearly_contributions=true&locale=pt-br)
 
